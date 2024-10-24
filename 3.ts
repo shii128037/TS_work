@@ -1,4 +1,4 @@
-function printMultiplicationTable(): void {
+function printMultiplicationTable() {
     // 外層迴圈控制乘數
     for (let i = 1; i <= 9; i++) {
       // 內層迴圈控制被乘數
